@@ -1,1 +1,1 @@
-# adaptive_one_page
+# NO Adaptive single-page
